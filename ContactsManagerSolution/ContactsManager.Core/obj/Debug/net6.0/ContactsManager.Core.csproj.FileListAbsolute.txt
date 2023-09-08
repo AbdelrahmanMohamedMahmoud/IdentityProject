@@ -1,0 +1,12 @@
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll

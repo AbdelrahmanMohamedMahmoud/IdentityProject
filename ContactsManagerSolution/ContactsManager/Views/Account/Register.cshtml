@@ -1,0 +1,94 @@
+﻿@using ContactsManager.Core.DTO;
+@model RegisterDTO
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="text-grey">
+    <span>Contacts</span>
+    <i class="fa-solid fa-caret-right"></i>
+    <span>Register</span>
+</div>
+
+<div class="form-container">
+    <span>Already Registerd?</span> <a class="link-hover" asp-action="Login" asp-controller="Account"></a>
+
+    <h2 class="text-large">Register</h2>
+
+    <form asp-controller="Account" asp-action="Register" method="post">
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="PersonName" class="form-label pt"></label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="PersonName"/>
+                <span class="text-red" asp-validation-for="PersonName"></span>
+            </div>
+        </div>
+
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Email" class="form-label pt"></label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="Email" />
+                <span class="text-red" asp-validation-for="Email"></span>
+            </div>
+        </div>
+
+
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Password" class="form-label pt"></label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="Password" />
+                <span class="text-red" asp-validation-for="Password"></span>
+            </div>
+        </div>
+
+
+         <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="ConfirmPassword" class="form-label pt"></label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="ConfirmPassword" />
+                <span class="text-red" asp-validation-for="ConfirmPassword"></span>
+            </div>
+        </div>
+
+
+
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Phone" class="form-label pt"></label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="Phone" />
+                <span class="text-red" asp-validation-for="Phone"></span>
+            </div>
+        </div>
+
+        <div class="form-field flex">
+            <div class="w-25"></div>
+            <div class="flex-1">
+                <button class="button button-green-back" type="submit">Register</button>
+                <div class="text-red" asp-validation-summary="All"></div>
+            </div>
+        </div>
+
+
+
+    </form>
+</div>
+
+
+@section scripts
+    {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" asp-fallback-test="window.jQuery" asp-fallback-src="~/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.4/jquery.validate.min.js" asp-fallback-test="window.jQuery.validator" asp-fallback-src="~/jquery.validate.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" asp-fallback-test="window.jQuery.validator.unobstrusive" asp-fallback-src="~/jquery.validate.unobtrusive.min.js"></script>
+}

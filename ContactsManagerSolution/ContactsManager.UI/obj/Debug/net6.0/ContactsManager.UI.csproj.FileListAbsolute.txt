@@ -1,0 +1,8 @@
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.csproj.AssemblyReference.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.AssemblyInfoInputs.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.AssemblyInfo.cs
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.csproj.CoreCompileInputs.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.RazorAssemblyInfo.cache
+D:\ASP HARSHA\ContactsManagerSolution\ContactsManager\obj\Debug\net6.0\ContactsManager.UI.RazorAssemblyInfo.cs
